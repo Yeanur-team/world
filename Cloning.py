@@ -51,6 +51,20 @@ S = '\033[1;96m'
 W = '\033[1;97m'
 ######Clear######
 def clear():
+	os.system('clear')
+
+#### time sleep ####
+def t():
+    time.sleep(1)
+def t1():
+    time.sleep(0.01)
+
+#### print std #love###
+def love(z):
+	for e in z + "\n":
+		sys.stdout.write(e)
+		sys.stdout.flush()
+		t1()
 def menu():
     clear()
     os.system('clear')
