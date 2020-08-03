@@ -91,8 +91,8 @@ def menu():
     time.sleep(0.05)
     print("\033[1;96m[7]  Install love3Hack3r     Tool      ●")
     time.sleep(0.05)
-    print("\print("\033[1;96m[2]  Install Facebook login  Tool      ●")
-    time.sleep(0.05)
+    
+
     print("\033[1;96m[3]  Install SpiderMan       Tool      ●")
     time.sleep(0.05)
     print("\033[1;96m[4]  Install Kalilinux       Tool      ●")
