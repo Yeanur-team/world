@@ -106,7 +106,7 @@ def menu():
     print("\033[1;96m[8]  Install Cobra           Tool      ●")
     time.sleep(0.05)
     print("\033[1;96m[9]  Install Dragon          Tool      ●")
-    time.sleep(0.05)033[1;96m[8]  Install Cobra           Tool      ●")
+    
     time.sleep(0.05)
     print("\033[1;96m[9]  Install Dragon          Tool      ●")
     time.sleep(0.05)
