@@ -34,7 +34,7 @@ logo = """
 \033[1;96m╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═╝░░╚═╝
 \033[1;47m\033[1;31m      Your Mind is Your Best Weapon       \033[1;0m
 \033[1;96m«-----------------\033[1;91mBlackMafia\033[1;96m-----------------»
-\033[1;91m  ┈┈┈◢▇◣◢▇◣┈┈◢▇◣◢▇◣┈┈◢▇◣◢▇◣┈┈┈┈  Bangladesh Virus Squaf
+\033[1;91m  ┈┈┈◢▇◣◢▇◣┈┈◢▇◣◢▇◣┈┈◢▇◣◢▇◣┈┈┈┈  Bangladesh Virus Squad
 \033[1;91m  ┈┈┈▇▇▇▇▇▇┈┈▇▇▇▇▇▇┈┈▇▇▇▇▇▇┈┈┈┈  Yeanur shah
 \033[1;91m  ┈┈┈◥▇▇▇▇◤┈┈◥▇▇▇▇◤┈┈◥▇▇▇▇◤┈┈┈┈ 
 \033[1;91m  ┈┈┈┈◥▇▇◤┈┈┈┈◥▇▇◤┈┈┈┈◥▇▇◤┈┈┈┈┈   WhatsApp
@@ -89,7 +89,22 @@ def menu():
     time.sleep(0.05)
     print("\033[1;96m[7]  Install love3Hack3r     Tool      ●")
     time.sleep(0.05)
+    print("\print("\033[1;96m[2]  Install Facebook login  Tool      ●")
+    time.sleep(0.05)
+    print("\033[1;96m[3]  Install SpiderMan       Tool      ●")
+    time.sleep(0.05)
+    print("\033[1;96m[4]  Install Kalilinux       Tool      ●")
+    time.sleep(0.05)
+    print("\033[1;96m[5]  Install BlackHat        Tool      ●")
+    time.sleep(0.05)
+    print("\033[1;96m[6]  Install RedMoonNew      Tool      ●")
+    time.sleep(0.05)
+    print("\033[1;96m[7]  Install love3Hack3r     Tool      ●")
+    time.sleep(0.05)
     print("\033[1;96m[8]  Install Cobra           Tool      ●")
+    time.sleep(0.05)
+    print("\033[1;96m[9]  Install Dragon          Tool      ●")
+    time.sleep(0.05)033[1;96m[8]  Install Cobra           Tool      ●")
     time.sleep(0.05)
     print("\033[1;96m[9]  Install Dragon          Tool      ●")
     time.sleep(0.05)
