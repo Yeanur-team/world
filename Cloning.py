@@ -51,21 +51,6 @@ S = '\033[1;96m'
 W = '\033[1;97m'
 ######Clear######
 def clear():
-    os.system('clear')
-
-#### time sleep ####
-def t():
-    time.sleep(1)
-def t1():
-    time.sleep(0.01)
-
-#### print std #love###
-def love(z):
-	for e in z + "\n":
-		sys.stdout.write(e)
-		sys.stdout.flush()
-		t1()
-
 def menu():
     clear()
     os.system('clear')
@@ -91,22 +76,7 @@ def menu():
     time.sleep(0.05)
     print("\033[1;96m[7]  Install love3Hack3r     Tool      ●")
     time.sleep(0.05)
-    
-
-    print("\033[1;96m[3]  Install SpiderMan       Tool      ●")
-    time.sleep(0.05)
-    print("\033[1;96m[4]  Install Kalilinux       Tool      ●")
-    time.sleep(0.05)
-    print("\033[1;96m[5]  Install BlackHat        Tool      ●")
-    time.sleep(0.05)
-    print("\033[1;96m[6]  Install RedMoonNew      Tool      ●")
-    time.sleep(0.05)
-    print("\033[1;96m[7]  Install love3Hack3r     Tool      ●")
-    time.sleep(0.05)
     print("\033[1;96m[8]  Install Cobra           Tool      ●")
-    time.sleep(0.05)
-    print("\033[1;96m[9]  Install Dragon          Tool      ●")
-    
     time.sleep(0.05)
     print("\033[1;96m[9]  Install Dragon          Tool      ●")
     time.sleep(0.05)
@@ -357,3 +327,6 @@ def mafia():
 	    os.system("exit")
 if __name__ == "__main__":
     menu()
+ 
+	        
+		
